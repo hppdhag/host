@@ -1,6 +1,6 @@
   /*<![CDATA[*/
-    if (typeof firstText == "undefined") firstText = "First"; 
-    if (typeof lastText == "undefined") lastText = "Last";
+    if (typeof firstText == "undefined") firstText = "Đầu"; 
+    if (typeof lastText == "undefined") lastText = "Cuối";
     var noPage;
     var currentPage;
     var currentPageNo;
