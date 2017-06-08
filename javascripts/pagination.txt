@@ -1,6 +1,8 @@
   /*<![CDATA[*/
     if (typeof firstText == "undefined") firstText = "Đầu"; 
     if (typeof lastText == "undefined") lastText = "Cuối";
+    if (typeof nextText == "undefined") nextText = "Tiếp";
+    if (typeof prevText == "undefined") prevText = "Trước";
     var noPage;
     var currentPage;
     var currentPageNo;
